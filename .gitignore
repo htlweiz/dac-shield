@@ -1,0 +1,4 @@
+*.kicad_sch_old
+/dac-shield-backups/
+\#auto_saved_files\#
+fp-info-cache
